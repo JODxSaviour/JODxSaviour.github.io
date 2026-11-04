@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jodxsaviour.farmmanager",
+      "sha256_cert_fingerprints": [
+        "74:28:3D:68:B2:7C:9E:3D:70:11:8E:4B:30:E8:7B:52:F4:AC:C7:93:AB:65:F7:15:3B:0D:01:8C:18:90:12:7C"
+      ]
+    }
+  }
+]
